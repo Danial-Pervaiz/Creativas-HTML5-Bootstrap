@@ -1,8 +1,6 @@
 # Creativas
 Creative Agency is a Beautiful OnePage/Multipage Template CA is a 100% responsive Multi-Purpose One & Multi page theme with awesome parallax effects. The theme is powered by the Twitter Bootstrap 3.3 Framework. It’s clean and professional design is perfect for both agencies and creative studios but also for modern business.
 
-<img src="http://danielpervaiz.com/github/images/creativas.png"/>
-
 <ul>
   <li>Clean and professional design</li>
   <li>Fullscreen portfolio</li>
@@ -24,4 +22,5 @@ Creative Agency is a Beautiful OnePage/Multipage Template CA is a 100% responsiv
   <li>Valid HTML5 & CSS3</li>
 </ul>
 
-
+<img src="http://danielpervaiz.com/github/images/creativas-1.png"/>
+<img src="http://danielpervaiz.com/github/images/creativas-2.png"/>
