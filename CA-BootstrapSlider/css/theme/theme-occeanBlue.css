@@ -1,0 +1,79 @@
+/*theme-occeanBlue #22BBBB */
+
+.itemIcon {
+    width: 50px;
+    height: 50px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #22BBBB;
+    background-color: transparent;
+    border-radius: 1px;
+    color: #22BBBB;
+    position: relative;
+    margin: 62px -15px;
+    padding: 14px 0px;
+    float: left;
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+}
+.itemIcon:hover {
+    background-color: #22BBBB;
+    color: #fff;
+}
+.ddpSection {
+    height: 160px;
+    width: 100%;
+    background-color: #22BBBB;;
+}
+.itemFunFacts:hover {
+    background-color: #22BBBB;;
+}
+.itemTeam {
+    width: 271px;
+    height: 446px;
+    margin-top: 18px;
+    padding: 0;
+    border-bottom: 1px solid #22BBBB;;
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+}
+.itemTeam ul li {
+    float: left;
+    height: 30px;
+    width: 30px;
+    border: 1px solid #22BBBB;;
+    padding: 4px 0px;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+    margin-left: 12px;
+    bottom: 8px;
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+}
+.progress-bar {
+    background-color: #22BBBB;;
+}
+.portfolio ul li.activeItem a {
+    color: #22BBBB;;
+}
+.itemTeam ul li a {
+    color: #22BBBB;;
+}
+.portfolio ul li.activeItem {
+    border: 1px solid #22BBBB;
+}
+.send:hover {
+    color: #22BBBB;
+}
+.flipperButton:hover {
+    border-color: #22BBBB;
+    background-color: #FFFFFF;
+    color: #22BBBB!important;
+}
